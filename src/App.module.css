@@ -11,28 +11,6 @@
   margin-top: -3rem;
 }
 
-.inputWrapper {
-  display: flex;
-  gap: 8px;
-  margin-bottom: 80px;
-}
-
-.inputWrapper input {
-  flex: 1;
-  border: none;
-  border-radius: 8px;
-  padding: 1.6rem;
-  background: var(--gray-500);
-  
-}
-.inputWrapper input:focus {
-  outline: none;
-}
-
-.inputWrapper input:placeholder {
-  color: var(--gray-300);
-}
-
 .taskTotals {
   display: flex;
   justify-content: space-between;
